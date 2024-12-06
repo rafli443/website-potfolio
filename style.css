@@ -1,0 +1,24 @@
+.banner{
+	background:url("https://i.ibb.co.com/KVxW6Hq/b.jpg" ) no-repeat center center;
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	color:#fff; 
+}
+
+.jumbotron img{
+	width:none;
+	border:5px solid #333;
+	position:relative;
+	top:9px;   
+}
+
+hr{
+	border-top: 10px solid #999;
+}
+
+section{
+	min-height:200px; 
+
+}
+
